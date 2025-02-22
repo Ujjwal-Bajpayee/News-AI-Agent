@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+transformers
+sumy
+nltk
+spacy
+python-dotenv
+python-wordpress-xmlrpc

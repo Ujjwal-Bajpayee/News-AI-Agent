@@ -32,6 +32,13 @@ An autonomous AI agent that fetches, summarizes, and publishes news articles on 
 
 ## Setup Instructions
 
+# First make a module file and upload 
+│   ├── crawler.py         
+│   ├── summarizer.py       
+│   ├── seo_optimizer.py    
+│   ├── publisher.py
+
+
 ### 1. Clone the Repository
 ### 2. Set Up a Virtual Environment
 ### 3.  Install Dependencies
